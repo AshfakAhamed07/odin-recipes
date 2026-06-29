@@ -10,19 +10,19 @@ This is a basic recipe website built as part of **The Odin Project – Foundatio
 
 The goal of this project is to practice:
 
-* HTML fundamentals
-* Git and GitHub workflow
-* Working in a WSL2 development environment
+- HTML fundamentals
+- Git and GitHub workflow
+- Working in a WSL2 development environment
 
 ---
 
 ## 🍽️ Each Recipe Page Includes
 
-* A title
-* An image
-* A description
-* A list of ingredients
-* Step-by-step cooking instructions
+- A title
+- An image
+- A description
+- A list of ingredients
+- Step-by-step cooking instructions
 
 ---
 
@@ -54,13 +54,13 @@ odin-recipes/
 
 ## 💡 Skills Practiced
 
-* HTML document structure
-* Headings, paragraphs, links, images, lists, and semantic HTML
-* Organizing files and folders in a web project
-* Basic Git commands (`clone`, `add`, `commit`, `push`)
-* GitHub repository management
-* Understanding image licensing, copyrights, and attribution
-* Working in a WSL2 development environment
+- HTML document structure
+- Headings, paragraphs, links, images, lists, and semantic HTML
+- Organizing files and folders in a web project
+- Basic Git commands (`clone`, `add`, `commit`, `push`)
+- GitHub repository management
+- Understanding image licensing, copyrights, and attribution
+- Working in a WSL2 development environment
 
 ---
 
